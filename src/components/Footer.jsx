@@ -52,6 +52,9 @@ export default function Footer() {
           ))}
         </div>
         <p className="copyright">&copy; {new Date().getFullYear()} CEGRISA IMPORT. Todos los derechos reservados.</p>
+        <p className="credit">
+          Creado por <a href="https://barclayleach.com/es/">Barclay Leach</a> impulsando <a href="https://www.zentpiper.com/">Zentpiper</a>
+        </p>
       </div>
     </footer>
   );
