@@ -51,7 +51,7 @@ export default function Footer() {
             </a>
           ))}
         </div>
-        <p className="copyright">&copy; {new Date().getFullYear()} CEGRISA IMPORT. Todos los derechos reservados.</p>
+        <p className="copyright">&copy; {new Date().getFullYear()} CEGRISA IMPORT. <a href="https://cernextec.com/es">Cernext</a> - Todos los derechos reservados.</p>
         <p className="credit">
           Hecho por <a href="https://barclayleach.com/es/">Barclay Leach</a> impulsando <a href="https://www.zentpiper.com/">Zentpiper</a>
         </p>
